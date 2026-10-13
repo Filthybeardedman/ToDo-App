@@ -1,2 +1,2 @@
-# ToDo-
-TypeScriptで開発する、ターミナル上で動作するToDoアプリ(作成中)
+# ToDo-App
+A simple command-line ToDo application built with TypeScript.
