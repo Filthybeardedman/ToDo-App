@@ -1,0 +1,14 @@
+{
+    "name": "todo-app",
+    "version": "1.0.0",
+    "description": "A simple ToDo application built with TypeScript",
+    "main": "dist/main.js",
+    "scripts": {
+        "build": "tsc",
+        "start": "node dist/main.js"
+    },
+    "devDependencies": {
+        "@types/node": "^26.6.5",
+        "typescript": "^7.0.2"
+    }
+}
